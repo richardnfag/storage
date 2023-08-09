@@ -1,2 +1,4 @@
-# storage
-Storage for Public Objects 
+# Storage
+Storage for Public Objects
+
+[CV.pdf](https://richardnfag.com/storage/CV.pdf)
